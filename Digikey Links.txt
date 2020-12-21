@@ -1,0 +1,6 @@
+MCU - ATMega32A
+https://www.digikey.com/en/products/detail/microchip-technology/ATMEGA32A-PU/1914592
+
+Crystal - HC49 Pkg - QT49-16.000MEEJ
+https://www.digikey.com/en/products/detail/qst/QT49-16-000MEEJ-B/13422634?s=N4IgjCBcoMwKxVAYygMwIYBsDOBTANCAPZQDa4YAbACwAMMIAuoQA4AuUIAymwE4CWAOwDmIAL6FKATkQgUkDDgLEyIamDAAOKQHYmrDpG58hoiSABMcBtDloseQiUjkwMKZv0h2nHgJHihNZ6tvKKjiou4O6ezN6Gxv5mhBZgcLSyYQ7Kzq6UALIAEgBeXj5GAKqC-GwA8qj5uOjYAK68uOLmFqoAjmzUMoxiQA
+
