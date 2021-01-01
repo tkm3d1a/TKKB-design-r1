@@ -1,6 +1,20 @@
 MCU - ATMega32A
 https://www.digikey.com/en/products/detail/microchip-technology/ATMEGA32A-PU/1914592
 
-Crystal - HC49 Pkg - QT49-16.000MEEJ
-https://www.digikey.com/en/products/detail/qst/QT49-16-000MEEJ-B/13422634?s=N4IgjCBcoMwKxVAYygMwIYBsDOBTANCAPZQDa4YAbACwAMMIAuoQA4AuUIAymwE4CWAOwDmIAL6FKATkQgUkDDgLEyIamDAAOKQHYmrDpG58hoiSABMcBtDloseQiUjkwMKZv0h2nHgJHihNZ6tvKKjiou4O6ezN6Gxv5mhBZgcLSyYQ7Kzq6UALIAEgBeXj5GAKqC-GwA8qj5uOjYAK68uOLmFqoAjmzUMoxiQA
+Crystal - HC49 Pkg - LFXTAL003231BULK
+https://www.digikey.com/en/products/detail/iqd-frequency-products/LFXTAL003231BULK/8633676
 
+22uF Cap - Radial, Can D5x2 Pkg - ECE-A1AN220U
+https://www.digikey.com/en/products/detail/panasonic-electronic-components/ECE-A1AN220U/227593
+
+5k1 RES - Axial, Horiz, 3.6x1.6 - MBA02040C5101FCT00
+https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C5101FCT00/6138797
+
+10k RES - Axial, Horiz, 3.6x1.6 - MRS16000C1002FRP00
+https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MRS16000C1002FRP00/5063735
+
+75R RES - Axial, Horiz, 3.6x1.6 - MBA02040C7509FC100
+https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C7509FC100/7350982
+
+3.6v Z-Diode - Axial, DO-35 PKG - BZX79-C3V6,133
+https://www.digikey.com/en/products/detail/nexperia-usa-inc/BZX79-C3V6133/2762641
