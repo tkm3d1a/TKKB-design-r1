@@ -7,6 +7,12 @@ https://www.digikey.com/en/products/detail/iqd-frequency-products/LFXTAL003231BU
 22uF Cap - Radial, Can D5x2 Pkg - ECE-A1AN220U
 https://www.digikey.com/en/products/detail/panasonic-electronic-components/ECE-A1AN220U/227593
 
+4u7F Cap - Radial, Can D5x2 Pkg - UKL1E4R7KDDANA
+https://www.digikey.com/en/products/detail/nichicon/UKL1E4R7KDDANA/2598437
+
+0u1F Cap - Disc, 5.1Lx3.2W with 5.1 Pitch - SR215C104JARTR1
+https://www.digikey.com/en/products/detail/avx-corporation/SR215C104JARTR1/9948450
+
 5k1 RES - Axial, Horiz, 3.6x1.6 - MBA02040C5101FCT00
 https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C5101FCT00/6138797
 
@@ -18,3 +24,6 @@ https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-componen
 
 3.6v Z-Diode - Axial, DO-35 PKG - BZX79-C3V6,133
 https://www.digikey.com/en/products/detail/nexperia-usa-inc/BZX79-C3V6133/2762641
+
+Gen Purp 75V/300mA Diode - Axial, DO-35 PKG - 1N4148TR
+https://www.digikey.com/en/products/detail/vishay-semiconductor-diodes-division/1N4148TR/3104054
