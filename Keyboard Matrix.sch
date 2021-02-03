@@ -445,45 +445,6 @@ F 3 "" H 9525 7475 60  0001 C CNN
 $EndComp
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX?
-U 1 1 5FF643FB
-P 10600 7500
-AR Path="/5FF643FB" Ref="MX?"  Part="1" 
-AR Path="/5FF17BC8/5FF643FB" Ref="MX24"  Part="1" 
-F 0 "MX24" H 10633 7723 60  0000 C CNN
-F 1 "R" H 10633 7649 20  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 9975 7475 60  0001 C CNN
-F 3 "" H 9975 7475 60  0001 C CNN
-	1    10600 7500
-	1    0    0    -1  
-$EndComp
-$Comp
-L MX_Alps_Hybrid:MX-NoLED MX?
-U 1 1 5FF64668
-P 11050 7500
-AR Path="/5FF64668" Ref="MX?"  Part="1" 
-AR Path="/5FF17BC8/5FF64668" Ref="MX29"  Part="1" 
-F 0 "MX29" H 11083 7723 60  0000 C CNN
-F 1 "T" H 11083 7649 20  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 10425 7475 60  0001 C CNN
-F 3 "" H 10425 7475 60  0001 C CNN
-	1    11050 7500
-	1    0    0    -1  
-$EndComp
-$Comp
-L MX_Alps_Hybrid:MX-NoLED MX?
-U 1 1 5FF64902
-P 11500 7500
-AR Path="/5FF64902" Ref="MX?"  Part="1" 
-AR Path="/5FF17BC8/5FF64902" Ref="MX34"  Part="1" 
-F 0 "MX34" H 11533 7723 60  0000 C CNN
-F 1 "Y" H 11533 7649 20  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 10875 7475 60  0001 C CNN
-F 3 "" H 10875 7475 60  0001 C CNN
-	1    11500 7500
-	1    0    0    -1  
-$EndComp
-$Comp
-L MX_Alps_Hybrid:MX-NoLED MX?
 U 1 1 5FF64C6E
 P 11950 7500
 AR Path="/5FF64C6E" Ref="MX?"  Part="1" 
@@ -614,45 +575,6 @@ F 3 "" H 9525 8475 60  0001 C CNN
 $EndComp
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX?
-U 1 1 5FF66C4E
-P 10600 8500
-AR Path="/5FF66C4E" Ref="MX?"  Part="1" 
-AR Path="/5FF17BC8/5FF66C4E" Ref="MX25"  Part="1" 
-F 0 "MX25" H 10633 8723 60  0000 C CNN
-F 1 "F" H 10633 8649 20  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 9975 8475 60  0001 C CNN
-F 3 "" H 9975 8475 60  0001 C CNN
-	1    10600 8500
-	1    0    0    -1  
-$EndComp
-$Comp
-L MX_Alps_Hybrid:MX-NoLED MX?
-U 1 1 5FF66F2E
-P 11050 8500
-AR Path="/5FF66F2E" Ref="MX?"  Part="1" 
-AR Path="/5FF17BC8/5FF66F2E" Ref="MX30"  Part="1" 
-F 0 "MX30" H 11083 8723 60  0000 C CNN
-F 1 "G" H 11083 8649 20  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 10425 8475 60  0001 C CNN
-F 3 "" H 10425 8475 60  0001 C CNN
-	1    11050 8500
-	1    0    0    -1  
-$EndComp
-$Comp
-L MX_Alps_Hybrid:MX-NoLED MX?
-U 1 1 5FF671AA
-P 11500 8500
-AR Path="/5FF671AA" Ref="MX?"  Part="1" 
-AR Path="/5FF17BC8/5FF671AA" Ref="MX35"  Part="1" 
-F 0 "MX35" H 11533 8723 60  0000 C CNN
-F 1 "H" H 11533 8649 20  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 10875 8475 60  0001 C CNN
-F 3 "" H 10875 8475 60  0001 C CNN
-	1    11500 8500
-	1    0    0    -1  
-$EndComp
-$Comp
-L MX_Alps_Hybrid:MX-NoLED MX?
 U 1 1 5FF673C2
 P 11950 8500
 AR Path="/5FF673C2" Ref="MX?"  Part="1" 
@@ -738,10 +660,6 @@ Wire Notes Line
 Wire Notes Line
 	12250 5300 12250 10900
 Wire Notes Line
-	11350 5300 11350 10900
-Wire Notes Line
-	10450 5300 10450 10900
-Wire Notes Line
 	9550 5300 9550 10900
 Wire Notes Line
 	8650 5300 8650 10900
@@ -797,47 +715,8 @@ F 3 "" H 9525 9475 60  0001 C CNN
 	1    10150 9500
 	1    0    0    -1  
 $EndComp
-$Comp
-L MX_Alps_Hybrid:MX-NoLED MX?
-U 1 1 5FFBAFE6
-P 10600 9500
-AR Path="/5FFBAFE6" Ref="MX?"  Part="1" 
-AR Path="/5FF17BC8/5FFBAFE6" Ref="MX26"  Part="1" 
-F 0 "MX26" H 10633 9723 60  0000 C CNN
-F 1 "V" H 10633 9649 20  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 9975 9475 60  0001 C CNN
-F 3 "" H 9975 9475 60  0001 C CNN
-	1    10600 9500
-	1    0    0    -1  
-$EndComp
 Text Notes 10500 10450 0    50   ~ 0
 Space
-$Comp
-L MX_Alps_Hybrid:MX-NoLED MX?
-U 1 1 5FFBB8B9
-P 11050 9500
-AR Path="/5FFBB8B9" Ref="MX?"  Part="1" 
-AR Path="/5FF17BC8/5FFBB8B9" Ref="MX31"  Part="1" 
-F 0 "MX31" H 11083 9723 60  0000 C CNN
-F 1 "B" H 11083 9649 20  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 10425 9475 60  0001 C CNN
-F 3 "" H 10425 9475 60  0001 C CNN
-	1    11050 9500
-	1    0    0    -1  
-$EndComp
-$Comp
-L MX_Alps_Hybrid:MX-NoLED MX?
-U 1 1 5FFBBC93
-P 11500 9500
-AR Path="/5FFBBC93" Ref="MX?"  Part="1" 
-AR Path="/5FF17BC8/5FFBBC93" Ref="MX36"  Part="1" 
-F 0 "MX36" H 11533 9723 60  0000 C CNN
-F 1 "N" H 11533 9649 20  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 10875 9475 60  0001 C CNN
-F 3 "" H 10875 9475 60  0001 C CNN
-	1    11500 9500
-	1    0    0    -1  
-$EndComp
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX?
 U 1 1 5FFBBF91
@@ -1510,28 +1389,6 @@ F 3 "~" V 9650 7750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D26
-U 1 1 5FF251B8
-P 10550 7750
-F 0 "D26" V 10596 7682 50  0000 R CNN
-F 1 "1N4148TR" V 10505 7682 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 10550 7750 50  0001 C CNN
-F 3 "~" V 10550 7750 50  0001 C CNN
-	1    10550 7750
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:D_Small D37
-U 1 1 5FF2563D
-P 11450 7750
-F 0 "D37" V 11496 7682 50  0000 R CNN
-F 1 "1N4148TR" V 11405 7682 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 11450 7750 50  0001 C CNN
-F 3 "~" V 11450 7750 50  0001 C CNN
-	1    11450 7750
-	0    -1   -1   0   
-$EndComp
-$Comp
 L Device:D_Small D47
 U 1 1 5FF2582E
 P 12350 7750
@@ -1760,17 +1617,6 @@ F 3 "~" V 10100 8050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D31
-U 1 1 5FF3DE28
-P 11000 8050
-F 0 "D31" V 11046 7982 50  0000 R CNN
-F 1 "1N4148TR" V 10955 7982 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 11000 8050 50  0001 C CNN
-F 3 "~" V 11000 8050 50  0001 C CNN
-	1    11000 8050
-	0    -1   -1   0   
-$EndComp
-$Comp
 L Device:D_Small D42
 U 1 1 5FF3E068
 P 11900 8050
@@ -1826,28 +1672,6 @@ F 3 "~" V 9650 8750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D27
-U 1 1 5FF3EFDC
-P 10550 8750
-F 0 "D27" V 10596 8682 50  0000 R CNN
-F 1 "1N4148TR" V 10505 8682 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 10550 8750 50  0001 C CNN
-F 3 "~" V 10550 8750 50  0001 C CNN
-	1    10550 8750
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:D_Small D38
-U 1 1 5FF3F443
-P 11450 8750
-F 0 "D38" V 11496 8682 50  0000 R CNN
-F 1 "1N4148TR" V 11405 8682 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 11450 8750 50  0001 C CNN
-F 3 "~" V 11450 8750 50  0001 C CNN
-	1    11450 8750
-	0    -1   -1   0   
-$EndComp
-$Comp
 L Device:D_Small D48
 U 1 1 5FF3F652
 P 12350 8750
@@ -1889,17 +1713,6 @@ F 1 "1N4148TR" V 10055 8982 50  0000 R CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 10100 9050 50  0001 C CNN
 F 3 "~" V 10100 9050 50  0001 C CNN
 	1    10100 9050
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:D_Small D32
-U 1 1 5FF402C8
-P 11000 9050
-F 0 "D32" V 11046 8982 50  0000 R CNN
-F 1 "1N4148TR" V 10955 8982 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 11000 9050 50  0001 C CNN
-F 3 "~" V 11000 9050 50  0001 C CNN
-	1    11000 9050
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -2147,18 +1960,8 @@ $EndComp
 Wire Wire Line
 	15500 7850 14150 7850
 Connection ~ 8750 7850
-Connection ~ 9650 7850
 Wire Wire Line
 	9650 7850 8750 7850
-Connection ~ 10550 7850
-Wire Wire Line
-	10550 7850 9650 7850
-Connection ~ 11450 7850
-Wire Wire Line
-	11450 7850 10550 7850
-Connection ~ 12350 7850
-Wire Wire Line
-	12350 7850 11450 7850
 Connection ~ 13250 7850
 Wire Wire Line
 	13250 7850 12350 7850
@@ -2168,15 +1971,8 @@ Wire Wire Line
 Wire Wire Line
 	14600 8150 13700 8150
 Connection ~ 9200 8150
-Connection ~ 10100 8150
 Wire Wire Line
 	10100 8150 9200 8150
-Connection ~ 11000 8150
-Wire Wire Line
-	11000 8150 10100 8150
-Connection ~ 11900 8150
-Wire Wire Line
-	11900 8150 11000 8150
 Connection ~ 12800 8150
 Wire Wire Line
 	12800 8150 11900 8150
@@ -2186,33 +1982,16 @@ Wire Wire Line
 Wire Wire Line
 	14150 8850 13250 8850
 Connection ~ 8750 8850
-Connection ~ 9650 8850
 Wire Wire Line
 	9650 8850 8750 8850
-Connection ~ 10550 8850
-Wire Wire Line
-	10550 8850 9650 8850
-Connection ~ 11450 8850
-Wire Wire Line
-	11450 8850 10550 8850
-Connection ~ 12350 8850
-Wire Wire Line
-	12350 8850 11450 8850
 Connection ~ 13250 8850
 Wire Wire Line
 	13250 8850 12350 8850
 Wire Wire Line
 	15500 9150 13700 9150
 Connection ~ 9200 9150
-Connection ~ 10100 9150
 Wire Wire Line
 	10100 9150 9200 9150
-Connection ~ 11000 9150
-Wire Wire Line
-	11000 9150 10100 9150
-Connection ~ 11900 9150
-Wire Wire Line
-	11900 9150 11000 9150
 Connection ~ 12800 9150
 Wire Wire Line
 	12800 9150 11900 9150
@@ -2292,8 +2071,6 @@ Wire Wire Line
 Wire Wire Line
 	11900 7650 11900 7950
 Wire Wire Line
-	11000 7650 11000 7950
-Wire Wire Line
 	10100 7650 10100 7950
 Wire Wire Line
 	9200 7650 9200 7950
@@ -2301,8 +2078,6 @@ Wire Wire Line
 	9200 8650 9200 8950
 Wire Wire Line
 	10100 8650 10100 8950
-Wire Wire Line
-	11000 8650 11000 8950
 Wire Wire Line
 	11900 8650 11900 8950
 Wire Wire Line
@@ -2323,29 +2098,8 @@ Wire Wire Line
 	9200 9650 9200 9950
 Wire Wire Line
 	10750 5450 10750 6450
-Connection ~ 10750 6450
-Wire Wire Line
-	10750 6450 10750 7450
-Connection ~ 10750 7450
-Wire Wire Line
-	10750 7450 10750 8450
-Connection ~ 10750 8450
-Wire Wire Line
-	10750 8450 10750 9450
 Wire Wire Line
 	11200 5450 11200 6450
-Connection ~ 11200 6450
-Wire Wire Line
-	11200 6450 11200 7450
-Connection ~ 11200 7450
-Wire Wire Line
-	11200 7450 11200 8450
-Connection ~ 11200 8450
-Wire Wire Line
-	11200 8450 11200 9450
-Connection ~ 11200 9450
-Wire Wire Line
-	11200 9450 11200 10600
 Wire Wire Line
 	11000 10900 11000 10700
 Wire Wire Line
@@ -2362,14 +2116,6 @@ Connection ~ 10750 5150
 Wire Wire Line
 	11650 5450 11650 6450
 Connection ~ 11650 6450
-Wire Wire Line
-	11650 6450 11650 7450
-Connection ~ 11650 7450
-Wire Wire Line
-	11650 7450 11650 8450
-Connection ~ 11650 8450
-Wire Wire Line
-	11650 8450 11650 9450
 Wire Wire Line
 	12100 5450 12100 6450
 Connection ~ 12100 6450
@@ -2581,4 +2327,258 @@ Wire Wire Line
 	8450 7150 9200 7150
 Wire Wire Line
 	8450 6850 8750 6850
+Wire Wire Line
+	11650 8450 11650 9450
+Connection ~ 11650 8450
+Connection ~ 11650 7450
+Wire Wire Line
+	11650 7450 11650 8450
+Wire Wire Line
+	11650 6450 11650 7450
+Connection ~ 11200 6450
+Connection ~ 10750 6450
+Connection ~ 11900 9150
+Connection ~ 10100 9150
+Connection ~ 12350 8850
+Connection ~ 9650 8850
+Connection ~ 11900 8150
+Connection ~ 10100 8150
+Connection ~ 12350 7850
+Connection ~ 9650 7850
+Wire Wire Line
+	11200 9450 11200 10600
+Connection ~ 11200 9450
+Wire Wire Line
+	11200 8450 11200 9450
+Connection ~ 11200 8450
+Wire Wire Line
+	11200 7450 11200 8450
+Connection ~ 11200 7450
+Wire Wire Line
+	11200 6450 11200 7450
+Wire Wire Line
+	10750 8450 10750 9450
+Connection ~ 10750 8450
+Wire Wire Line
+	10750 7450 10750 8450
+Connection ~ 10750 7450
+Wire Wire Line
+	10750 6450 10750 7450
+Wire Wire Line
+	11000 8650 11000 8950
+Wire Wire Line
+	11000 7650 11000 7950
+Wire Wire Line
+	11900 9150 11000 9150
+Wire Wire Line
+	11000 9150 10100 9150
+Connection ~ 11000 9150
+Wire Wire Line
+	12350 8850 11450 8850
+Wire Wire Line
+	11450 8850 10550 8850
+Connection ~ 11450 8850
+Wire Wire Line
+	10550 8850 9650 8850
+Connection ~ 10550 8850
+Wire Wire Line
+	11900 8150 11000 8150
+Wire Wire Line
+	11000 8150 10100 8150
+Connection ~ 11000 8150
+Wire Wire Line
+	12350 7850 11450 7850
+Wire Wire Line
+	11450 7850 10550 7850
+Connection ~ 11450 7850
+Wire Wire Line
+	10550 7850 9650 7850
+Connection ~ 10550 7850
+$Comp
+L Device:D_Small D32
+U 1 1 5FF402C8
+P 11000 9050
+F 0 "D32" V 11046 8982 50  0000 R CNN
+F 1 "1N4148TR" V 10955 8982 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 11000 9050 50  0001 C CNN
+F 3 "~" V 11000 9050 50  0001 C CNN
+	1    11000 9050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D38
+U 1 1 5FF3F443
+P 11450 8750
+F 0 "D38" V 11496 8682 50  0000 R CNN
+F 1 "1N4148TR" V 11405 8682 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 11450 8750 50  0001 C CNN
+F 3 "~" V 11450 8750 50  0001 C CNN
+	1    11450 8750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D27
+U 1 1 5FF3EFDC
+P 10550 8750
+F 0 "D27" V 10596 8682 50  0000 R CNN
+F 1 "1N4148TR" V 10505 8682 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 10550 8750 50  0001 C CNN
+F 3 "~" V 10550 8750 50  0001 C CNN
+	1    10550 8750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D31
+U 1 1 5FF3DE28
+P 11000 8050
+F 0 "D31" V 11046 7982 50  0000 R CNN
+F 1 "1N4148TR" V 10955 7982 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 11000 8050 50  0001 C CNN
+F 3 "~" V 11000 8050 50  0001 C CNN
+	1    11000 8050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D37
+U 1 1 5FF2563D
+P 11450 7750
+F 0 "D37" V 11496 7682 50  0000 R CNN
+F 1 "1N4148TR" V 11405 7682 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 11450 7750 50  0001 C CNN
+F 3 "~" V 11450 7750 50  0001 C CNN
+	1    11450 7750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D26
+U 1 1 5FF251B8
+P 10550 7750
+F 0 "D26" V 10596 7682 50  0000 R CNN
+F 1 "1N4148TR" V 10505 7682 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 10550 7750 50  0001 C CNN
+F 3 "~" V 10550 7750 50  0001 C CNN
+	1    10550 7750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FFBBC93
+P 11500 9500
+AR Path="/5FFBBC93" Ref="MX?"  Part="1" 
+AR Path="/5FF17BC8/5FFBBC93" Ref="MX36"  Part="1" 
+F 0 "MX36" H 11533 9723 60  0000 C CNN
+F 1 "N" H 11533 9649 20  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 10875 9475 60  0001 C CNN
+F 3 "" H 10875 9475 60  0001 C CNN
+	1    11500 9500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FFBB8B9
+P 11050 9500
+AR Path="/5FFBB8B9" Ref="MX?"  Part="1" 
+AR Path="/5FF17BC8/5FFBB8B9" Ref="MX31"  Part="1" 
+F 0 "MX31" H 11083 9723 60  0000 C CNN
+F 1 "B" H 11083 9649 20  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 10425 9475 60  0001 C CNN
+F 3 "" H 10425 9475 60  0001 C CNN
+	1    11050 9500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FFBAFE6
+P 10600 9500
+AR Path="/5FFBAFE6" Ref="MX?"  Part="1" 
+AR Path="/5FF17BC8/5FFBAFE6" Ref="MX26"  Part="1" 
+F 0 "MX26" H 10633 9723 60  0000 C CNN
+F 1 "V" H 10633 9649 20  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 9975 9475 60  0001 C CNN
+F 3 "" H 9975 9475 60  0001 C CNN
+	1    10600 9500
+	1    0    0    -1  
+$EndComp
+Wire Notes Line
+	10450 5300 10450 10900
+Wire Notes Line
+	11350 5300 11350 10900
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FF671AA
+P 11500 8500
+AR Path="/5FF671AA" Ref="MX?"  Part="1" 
+AR Path="/5FF17BC8/5FF671AA" Ref="MX35"  Part="1" 
+F 0 "MX35" H 11533 8723 60  0000 C CNN
+F 1 "H" H 11533 8649 20  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 10875 8475 60  0001 C CNN
+F 3 "" H 10875 8475 60  0001 C CNN
+	1    11500 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FF66F2E
+P 11050 8500
+AR Path="/5FF66F2E" Ref="MX?"  Part="1" 
+AR Path="/5FF17BC8/5FF66F2E" Ref="MX30"  Part="1" 
+F 0 "MX30" H 11083 8723 60  0000 C CNN
+F 1 "G" H 11083 8649 20  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 10425 8475 60  0001 C CNN
+F 3 "" H 10425 8475 60  0001 C CNN
+	1    11050 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FF66C4E
+P 10600 8500
+AR Path="/5FF66C4E" Ref="MX?"  Part="1" 
+AR Path="/5FF17BC8/5FF66C4E" Ref="MX25"  Part="1" 
+F 0 "MX25" H 10633 8723 60  0000 C CNN
+F 1 "F" H 10633 8649 20  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 9975 8475 60  0001 C CNN
+F 3 "" H 9975 8475 60  0001 C CNN
+	1    10600 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FF64902
+P 11500 7500
+AR Path="/5FF64902" Ref="MX?"  Part="1" 
+AR Path="/5FF17BC8/5FF64902" Ref="MX34"  Part="1" 
+F 0 "MX34" H 11533 7723 60  0000 C CNN
+F 1 "Y" H 11533 7649 20  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 10875 7475 60  0001 C CNN
+F 3 "" H 10875 7475 60  0001 C CNN
+	1    11500 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FF64668
+P 11050 7500
+AR Path="/5FF64668" Ref="MX?"  Part="1" 
+AR Path="/5FF17BC8/5FF64668" Ref="MX29"  Part="1" 
+F 0 "MX29" H 11083 7723 60  0000 C CNN
+F 1 "T" H 11083 7649 20  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 10425 7475 60  0001 C CNN
+F 3 "" H 10425 7475 60  0001 C CNN
+	1    11050 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FF643FB
+P 10600 7500
+AR Path="/5FF643FB" Ref="MX?"  Part="1" 
+AR Path="/5FF17BC8/5FF643FB" Ref="MX24"  Part="1" 
+F 0 "MX24" H 10633 7723 60  0000 C CNN
+F 1 "R" H 10633 7649 20  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 9975 7475 60  0001 C CNN
+F 3 "" H 9975 7475 60  0001 C CNN
+	1    10600 7500
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

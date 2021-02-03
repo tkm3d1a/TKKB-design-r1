@@ -534,7 +534,7 @@ Text HLabel 6700 2400 0    50   Input ~ 0
 Col_7
 Text GLabel 10300 1600 2    50   Input ~ 0
 Col_0
-Text GLabel 6700 1700 2    50   Input ~ 0
+Text GLabel 6700 1700 2    50   BiDi ~ 0
 Col_0
 Text GLabel 10300 1700 2    50   Input ~ 0
 Col_1
@@ -550,19 +550,19 @@ Text GLabel 10300 2200 2    50   Input ~ 0
 Col_6
 Text GLabel 10300 2300 2    50   Input ~ 0
 Col_7
-Text GLabel 6700 1800 2    50   Input ~ 0
+Text GLabel 6700 1800 2    50   BiDi ~ 0
 Col_1
-Text GLabel 6700 1900 2    50   Input ~ 0
+Text GLabel 6700 1900 2    50   BiDi ~ 0
 Col_2
-Text GLabel 6700 2000 2    50   Input ~ 0
+Text GLabel 6700 2000 2    50   BiDi ~ 0
 Col_3
-Text GLabel 6700 2100 2    50   Input ~ 0
+Text GLabel 6700 2100 2    50   BiDi ~ 0
 Col_4
-Text GLabel 6700 2200 2    50   Input ~ 0
+Text GLabel 6700 2200 2    50   BiDi ~ 0
 Col_5
-Text GLabel 6700 2300 2    50   Input ~ 0
+Text GLabel 6700 2300 2    50   BiDi ~ 0
 Col_6
-Text GLabel 6700 2400 2    50   Input ~ 0
+Text GLabel 6700 2400 2    50   BiDi ~ 0
 Col_7
 Wire Wire Line
 	10250 1600 10300 1600
